@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-EDA-
+# Exploratory-Data-Analysis 
 In this project the dataset adult.csv is analysed using different techniques in pandas, matplot and seaborn to obtain general insights for developing model to predict future outcomes.
 The following techniques were used in this project.
 
